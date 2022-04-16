@@ -14,6 +14,7 @@
 		A1B87AEF2802B2FA00F00860 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1B87AEE2802B2FA00F00860 /* HomeView.swift */; };
 		A1B87AF12802B32A00F00860 /* SlideMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1B87AF02802B32A00F00860 /* SlideMenu.swift */; };
 		A1B87AF32802D26C00F00860 /* FollowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1B87AF22802D26C00F00860 /* FollowView.swift */; };
+		A1D12264280AB0E600A27D80 /* HomePageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1D12263280AB0E600A27D80 /* HomePageView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		A1B87AEE2802B2FA00F00860 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		A1B87AF02802B32A00F00860 /* SlideMenu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SlideMenu.swift; sourceTree = "<group>"; };
 		A1B87AF22802D26C00F00860 /* FollowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FollowView.swift; sourceTree = "<group>"; };
+		A1D12263280AB0E600A27D80 /* HomePageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomePageView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				A1B87AE62802B28600F00860 /* Preview Content */,
 				A1B87AF02802B32A00F00860 /* SlideMenu.swift */,
 				A1B87AF22802D26C00F00860 /* FollowView.swift */,
+				A1D12263280AB0E600A27D80 /* HomePageView.swift */,
 			);
 			path = KavsoftSlideMenu;
 			sourceTree = "<group>";
@@ -150,6 +153,7 @@
 				A1B87AEF2802B2FA00F00860 /* HomeView.swift in Sources */,
 				A1B87AE32802B28500F00860 /* ContentView.swift in Sources */,
 				A1B87AF32802D26C00F00860 /* FollowView.swift in Sources */,
+				A1D12264280AB0E600A27D80 /* HomePageView.swift in Sources */,
 				A1B87AE12802B28500F00860 /* KavsoftSlideMenuApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
